@@ -1,0 +1,6 @@
+[submodule "PA.UserInputTracker"]
+	path = PA.UserInputTracker
+	url = https://github.com/HASEL-UZH/PA.UserInputTracker
+[submodule "PA.WindowsActivityTracker"]
+	path = PA.WindowsActivityTracker
+	url = https://github.com/HASEL-UZH/PA.WindowsActivityTracker

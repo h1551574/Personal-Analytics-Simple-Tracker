@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "user-input-tracker": "file:PA.UserInputTracker/typescript",
+    "windows-activity-tracker": "file:PA.WindowsActivityTracker/typescript"
+  }
+}
